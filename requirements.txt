@@ -1,0 +1,5 @@
+Flask==2.3.3
+textstat==0.7.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+Flask-CORS==3.0.10  # Add this line
